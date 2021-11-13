@@ -11,3 +11,7 @@ n3.js
 n4.js
 n4.html
 n4.css
+.env
+./script/config.js
+config.js
+node_modules
